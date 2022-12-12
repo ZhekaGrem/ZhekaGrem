@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" style="width: 56px; height: 56px; margin-right: 0px; margin-bottom: 0px;" />
-  <p align="flex">
+  <p style="width: 56px; height: 56px; margin-right: 0px; margin-bottom: 0px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css," />
   </a>
