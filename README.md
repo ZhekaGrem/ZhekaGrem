@@ -1,11 +1,11 @@
 ### Hi there 👋
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" height="56" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="56" height="56" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="56" height="56" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="56" height="56" /></div>
-</hr>
-<p align="center">
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" style="width: 56px; height: 56px; margin-right: 0px; margin-bottom: 0px;" />
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css," />
   </a>
-</p>
+</p><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="56" style="width: 56px; height: 56px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="56" style="width: 56px; height: 56px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="56" style="width: 56px; height: 56px; margin-right: 0px; margin-bottom: 0px;" /></div>
+
 
 <!--
 **ZhekaGrem/ZhekaGrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
