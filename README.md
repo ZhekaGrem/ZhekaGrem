@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋! My name Yevhenii Grem
 <p align="center">
   <a href="https://skillicons.dev">
+    <h2> My favorite tools and technologies</h2>
     <img src="https://skillicons.dev/icons?i=,html,css,js,ts,nodejs,redux,react,webpack,git,docker,github,webpack,nextjs" />
   </a>
 </p>
