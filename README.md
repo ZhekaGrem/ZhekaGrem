@@ -1,4 +1,4 @@
-### Hi there 👋! My name Yevhenii Grem
+###👋 Hi there!  My name Yevhenii Grem
 <p> welcome to my GotHub Page. I am Hrem Yevhenii and now Computer engineering student, I learn new about programming and teach these things to other.</p>
 <p align="center">
   <a href="https://skillicons.dev">
