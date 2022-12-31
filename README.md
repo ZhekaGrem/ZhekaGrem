@@ -3,14 +3,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <h2> My favorite tools and technologies :</h2>
-    <img src="https://skillicons.dev/icons?i= html,css"/>
+    <img src="https://skillicons.dev/icons?i= html,css,js,ts,nodejs,redux,react,webpack,git,docker,github,webpack,nextjs" />
               </a>
-          <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
-          <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=ts,nodejs,redux,react,webpack,git,docker,github,webpack,nextjs" />
-              </a>
-
-</p>
+        
 
 <!--
 **ZhekaGrem/ZhekaGrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
