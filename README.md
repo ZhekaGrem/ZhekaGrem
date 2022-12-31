@@ -5,8 +5,9 @@
     <h2> My favorite tools and technologies :</h2>
     <img src="https://skillicons.dev/icons?i= html,css"/>
               </a>
-              <div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
-              <img src="https://skillicons.dev/icons?i=ts,nodejs,redux,react,webpack,git,docker,github,webpack,nextjs""/>
+          <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
+          <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=ts,nodejs,redux,react,webpack,git,docker,github,webpack,nextjs" />
               </a>
 
 </p>
