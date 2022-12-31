@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <h2> My favorite tools and technologies :</h2>
-    <img src="https://skillicons.dev/icons?i=,html,css,js,ts,nodejs,redux,react,webpack,git,docker,github,webpack,nextjs" />
+    <img src="https://skillicons.dev/icons?i=,html,css,
+              <div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>,ts,nodejs,redux,react,webpack,git,docker,github,webpack,nextjs" />
   </a>
 </p>
 
