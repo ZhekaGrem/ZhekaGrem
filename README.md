@@ -3,7 +3,7 @@
  <h2> My favorite tools and technologies :</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,redux,react,webpack,git,github,nextjs,docker,mysql,mongo" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,webpack,vite,git,github,nextjs,docker" />
   </a>
 </p>
   
