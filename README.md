@@ -3,7 +3,10 @@
  <h2> My favorite tools and technologies :</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,webpack,vite,git,github,nextjs,jest,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,taillwind,materialui,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,gulp,webpack,vite,jest" />
+    <img src="https://skillicons.dev/icons?i=git,github,nextjs,docker" />
+
   </a>
 </p>
   
