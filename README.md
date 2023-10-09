@@ -6,10 +6,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,figma" />
   </a>
 </p>
-<p>   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,gulp,webpack,vite,jest" />
+<p align="center">   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,gulp,webpack,vite,jest" />
 </p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,nextjs,docker" />
-<p></p>
+</p>
+<h2>
+ technologies I study:
+</h2>
+<p  align="center">
+ <img src="https://skillicons.dev/icons?i=php,laravel,myql,redis,mongodb,postgres,postman,grafql" />
+</p>
   
 
 <!--
