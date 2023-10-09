@@ -12,10 +12,10 @@
     <img src="https://skillicons.dev/icons?i=git,github,nextjs,docker" />
 </p>
 <h2>
- technologies I study:
+ Technologies I study:
 </h2>
 <p  align="center">
- <img src="https://skillicons.dev/icons?i=php,laravel,myql,redis,mongodb,postgres,postman,grafql" />
+ <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,mongodb,postgres,postman,graphql" />
 </p>
   
 
