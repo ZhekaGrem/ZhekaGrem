@@ -11,12 +11,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,nextjs,docker" />
 </p>
-<h2>
- Technologies I study:
-</h2>
-<p  align="center">
- <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,mongodb,postgres,postman,graphql" />
-</p>
+
   
 
 <!--
