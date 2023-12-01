@@ -1,5 +1,5 @@
 <h1>👋 Hi there!  My name Yevhenii Grem</h1>
-<p> Hello! I'm Hrem Yevhenii, a seasoned frontend developer with two years of commercial experience. Currently, I'm expanding my skills to become a full-stack developer, proficient in launching and deploying web applications.</p>
+<p> An seasoned frontend developer with two years of commercial experience. Currently, I'm expanding my skills to become a full-stack developer, proficient in launching and deploying web applications.</p>
  <h2> My favorite tools and technologies :</h2>
   <p align="center">
   <a href="https://skillicons.dev">
