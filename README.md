@@ -9,7 +9,7 @@
 <p align="center">   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,gulp,webpack,vite,jest" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,nextjs,docker,cubernetis,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,github,nextjs,docker,kubernetis,nodejs" />
 </p>
 
   
