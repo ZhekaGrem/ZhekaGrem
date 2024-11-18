@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Frontend Developer with 2 years of commercial experience, currently expanding my expertise into full-stack development. I specialize in building and deploying modern web applications using cutting-edge technologies.
+I'm a passionate Frontend Developer with 3 years of commercial experience, currently expanding my expertise into full-stack development. I specialize in building and deploying modern web applications using cutting-edge technologies.
 
 ## 🛠️ Technical Stack
 
