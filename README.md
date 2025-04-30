@@ -24,7 +24,7 @@ I'm a passionate Frontend Developer with 4+ years of commercial experience, curr
 ### Backend Development
 ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
+![PHP](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php)
 
 ### Styling & Design
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
