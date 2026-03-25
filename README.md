@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yevhenii Grem
+# Yevhenii Hrem
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BAFDA&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Aspiring+Full-Stack+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
 
