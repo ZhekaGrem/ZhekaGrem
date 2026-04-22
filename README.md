@@ -107,7 +107,7 @@ Django 5 + django-ninja + Celery + Redis + PostgreSQL. OpenAI writes the reading
 
 <div align="center">
 
-Open to remote full-time and contract roles. Easiest way to reach me is Telegram: [@yevhenii_hrem](https://t.me/yevhenii_hrem).
+Open to remote full-time and contract roles. Easiest way to reach me is Telegram: [@yevhenii_hrem](https://t.me/GremYevhenii).
 
 <img src="https://komarev.com/ghpvc/?username=ZhekaGrem&color=c0391b&style=flat" alt="Profile views" />
 
