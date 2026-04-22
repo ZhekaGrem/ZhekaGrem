@@ -99,7 +99,6 @@ Django 5 + django-ninja + Celery + Redis + PostgreSQL. OpenAI writes the reading
 
 <div align="center">
 
-![Yevhenii's stats](https://github-readme-stats.vercel.app/api?username=ZhekaGrem&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhekaGrem&layout=compact&theme=default&hide_border=true)
 
 </div>
