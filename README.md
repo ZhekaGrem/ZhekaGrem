@@ -88,7 +88,6 @@ I ship things end to end — spec to deploy to the VPS that serves them.
 
 ### RentFlow — real-estate platform
 Next.js 16 + MongoDB + NextAuth (Google OAuth + credentials + email verification), Zustand, TanStack Query, Shadcn/Radix (54+ components), 14+ REST API routes, Telegram bot for contacts.
-→ **[estate-web-beta.vercel.app](https://estate-web-beta.vercel.app)**
 
 ### Multi-Channel RAG Chatbot
 One Python backend, five channels (Telegram, Discord, Instagram, Messenger, WhatsApp). LangChain + ChromaDB + OpenAI GPT-4o-mini, per-user chat memory, document ingestion for PDF / DOCX / CSV / XLSX. Runs as systemd services on an Ubuntu VPS.
