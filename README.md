@@ -95,11 +95,6 @@ One Python backend, five channels (Telegram, Discord, Instagram, Messenger, What
 ### AI Astrology Platform
 Django 5 + django-ninja + Celery + Redis + PostgreSQL. OpenAI writes the readings, `ephem` and `astronomy-engine` do the chart math, ReportLab renders the PDFs, Cloudinary stores the assets. Shipped with Docker Compose.
 
-## GitHub
-
-<div align="center">
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhekaGrem&layout=compact&theme=default&hide_border=true)
 
 </div>
 
