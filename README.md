@@ -2,7 +2,7 @@
 
 # Yevhenii Hrem
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0391B&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%C2%B7+6%2B+years;TypeScript+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;Most+of+my+recent+work+is+AI+%2F+RAG+%2F+chatbots)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0391B&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%C2%B7+4%2B+years;TypeScript+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;Most+of+my+recent+work+is+AI+%2F+RAG+%2F+chatbots)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-hrem/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yevheniigrem@gmail.com)
